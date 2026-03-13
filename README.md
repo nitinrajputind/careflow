@@ -1,6 +1,6 @@
 # CareFlow Grievance Module
 
-A premium, production-ready Healthcare Incident Submission & Management System built with Next.js (App Router), Material UI, and Server Actions.
+A professional Healthcare Incident Submission & Management System built with Next.js (App Router), Material UI, and Server Actions.
 
 ## ✨ Key Features
 
